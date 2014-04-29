@@ -1,0 +1,23 @@
+{
+  "name": "handsontable-mapper",
+  "version": "0.0.0",
+  "description": "js library for mapping brilliantpr-promo data to handsontable",
+  "main": "index.js",
+  "scripts": {
+    "build-debug": "browserify index.js -d --s handsontableMapper > dist/handsontable-mapper.js",
+    "build-min": "browserify index.js --s handsontableMapper | uglifyjs -c > dist/handsontable-mapper.min.js",
+    "build": "npm run build-debug && npm run build-min",
+    "watch": "watchify index.js -d --s handsontableMapper -o dist/handsontable-mapper.js -v"
+  },
+  "author": "Christos Kapasakalidis",
+  "license": "ISC",
+  "devDependencies": {
+    "watchify": "^0.8.2",
+    "uglify-js": "^2.4.13",
+    "browserify": "^3.44.2",
+    "nodeunit": "^0.8.6"
+  },
+  "dependencies": {
+    "lodash": "^2.4.1"
+  }
+}
