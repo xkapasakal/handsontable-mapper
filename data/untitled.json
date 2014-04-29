@@ -1,0 +1,3797 @@
+[
+  {
+    "id": 830716792,
+    "name": "KOTSOVOLOS",
+    "stores": [
+      {
+        "id": 1041634633,
+        "location_id": 959773954,
+        "chain_store_id": 830716792,
+        "store_surveys": [
+          {
+            "id": 775,
+            "event_date": "2014-04-15",
+            "contacts": 26,
+            "store_id": 1041634633,
+            "promo_cycle_id": 43,
+            "comment": "ΑΝΤΑΓΩΝΙΣΜΟΣ: HP, APPLE",
+            "informed_contacts": 13,
+            "question_surveys": [
+              {
+                "id": 16220,
+                "units": 0,
+                "question_id": 957059672,
+                "store_survey_id": 775
+              },
+              {
+                "id": 16221,
+                "units": 1,
+                "question_id": 957059671,
+                "store_survey_id": 775
+              },
+              {
+                "id": 16222,
+                "units": 1,
+                "question_id": 957059670,
+                "store_survey_id": 775
+              },
+              {
+                "id": 16223,
+                "units": 9,
+                "question_id": 957059663,
+                "store_survey_id": 775
+              },
+              {
+                "id": 16224,
+                "units": 0,
+                "question_id": 957059668,
+                "store_survey_id": 775
+              },
+              {
+                "id": 16225,
+                "units": 2,
+                "question_id": 957059667,
+                "store_survey_id": 775
+              },
+              {
+                "id": 16226,
+                "units": 0,
+                "question_id": 957059669,
+                "store_survey_id": 775
+              },
+              {
+                "id": 16229,
+                "units": 0,
+                "question_id": 957059664,
+                "store_survey_id": 775
+              },
+              {
+                "id": 16228,
+                "units": 0,
+                "question_id": 957059665,
+                "store_survey_id": 775
+              },
+              {
+                "id": 16227,
+                "units": 0,
+                "question_id": 957059666,
+                "store_survey_id": 775
+              }
+            ]
+          },
+          {
+            "id": 787,
+            "event_date": "2014-04-16",
+            "contacts": 29,
+            "store_id": 1041634633,
+            "promo_cycle_id": 43,
+            "comment": "ΑΝΤΑΓΩΝΙΣΜΟΣ: HP, APPLE",
+            "informed_contacts": 15,
+            "question_surveys": [
+              {
+                "id": 16472,
+                "units": 0,
+                "question_id": 957059672,
+                "store_survey_id": 787
+              },
+              {
+                "id": 16473,
+                "units": 2,
+                "question_id": 957059671,
+                "store_survey_id": 787
+              },
+              {
+                "id": 16474,
+                "units": 2,
+                "question_id": 957059670,
+                "store_survey_id": 787
+              },
+              {
+                "id": 16475,
+                "units": 7,
+                "question_id": 957059663,
+                "store_survey_id": 787
+              },
+              {
+                "id": 16476,
+                "units": 0,
+                "question_id": 957059668,
+                "store_survey_id": 787
+              },
+              {
+                "id": 16477,
+                "units": 4,
+                "question_id": 957059667,
+                "store_survey_id": 787
+              },
+              {
+                "id": 16478,
+                "units": 0,
+                "question_id": 957059669,
+                "store_survey_id": 787
+              },
+              {
+                "id": 16481,
+                "units": 0,
+                "question_id": 957059664,
+                "store_survey_id": 787
+              },
+              {
+                "id": 16480,
+                "units": 0,
+                "question_id": 957059665,
+                "store_survey_id": 787
+              },
+              {
+                "id": 16479,
+                "units": 0,
+                "question_id": 957059666,
+                "store_survey_id": 787
+              }
+            ]
+          },
+          {
+            "id": 811,
+            "event_date": "2014-04-17",
+            "contacts": 31,
+            "store_id": 1041634633,
+            "promo_cycle_id": 43,
+            "comment": "ΑΝΤΑΓΩΝΙΣΜΟΣ: HP, APPLE",
+            "informed_contacts": 26,
+            "question_surveys": [
+              {
+                "id": 16976,
+                "units": 0,
+                "question_id": 957059672,
+                "store_survey_id": 811
+              },
+              {
+                "id": 16977,
+                "units": 0,
+                "question_id": 957059671,
+                "store_survey_id": 811
+              },
+              {
+                "id": 16978,
+                "units": 0,
+                "question_id": 957059670,
+                "store_survey_id": 811
+              },
+              {
+                "id": 16979,
+                "units": 2,
+                "question_id": 957059663,
+                "store_survey_id": 811
+              },
+              {
+                "id": 16980,
+                "units": 0,
+                "question_id": 957059668,
+                "store_survey_id": 811
+              },
+              {
+                "id": 16981,
+                "units": 1,
+                "question_id": 957059667,
+                "store_survey_id": 811
+              },
+              {
+                "id": 16982,
+                "units": 0,
+                "question_id": 957059669,
+                "store_survey_id": 811
+              },
+              {
+                "id": 16985,
+                "units": 0,
+                "question_id": 957059664,
+                "store_survey_id": 811
+              },
+              {
+                "id": 16984,
+                "units": 0,
+                "question_id": 957059665,
+                "store_survey_id": 811
+              },
+              {
+                "id": 16983,
+                "units": 0,
+                "question_id": 957059666,
+                "store_survey_id": 811
+              }
+            ]
+          },
+          {
+            "id": 823,
+            "event_date": "2014-04-18",
+            "contacts": 18,
+            "store_id": 1041634633,
+            "promo_cycle_id": 43,
+            "comment": "ΑΝΤΑΓΩΝΙΣΜΟΣ: HP, APPLE",
+            "informed_contacts": 10,
+            "question_surveys": [
+              {
+                "id": 17228,
+                "units": 0,
+                "question_id": 957059672,
+                "store_survey_id": 823
+              },
+              {
+                "id": 17229,
+                "units": 1,
+                "question_id": 957059671,
+                "store_survey_id": 823
+              },
+              {
+                "id": 17230,
+                "units": 0,
+                "question_id": 957059670,
+                "store_survey_id": 823
+              },
+              {
+                "id": 17231,
+                "units": 9,
+                "question_id": 957059663,
+                "store_survey_id": 823
+              },
+              {
+                "id": 17232,
+                "units": 0,
+                "question_id": 957059668,
+                "store_survey_id": 823
+              },
+              {
+                "id": 17233,
+                "units": 0,
+                "question_id": 957059667,
+                "store_survey_id": 823
+              },
+              {
+                "id": 17234,
+                "units": 0,
+                "question_id": 957059669,
+                "store_survey_id": 823
+              },
+              {
+                "id": 17237,
+                "units": 0,
+                "question_id": 957059664,
+                "store_survey_id": 823
+              },
+              {
+                "id": 17236,
+                "units": 0,
+                "question_id": 957059665,
+                "store_survey_id": 823
+              },
+              {
+                "id": 17235,
+                "units": 0,
+                "question_id": 957059666,
+                "store_survey_id": 823
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 252295898,
+        "location_id": 375620253,
+        "chain_store_id": 830716792,
+        "store_surveys": [
+          {
+            "id": 774,
+            "event_date": "2014-04-15",
+            "contacts": 25,
+            "store_id": 252295898,
+            "promo_cycle_id": 43,
+            "comment": "ΑΝΤΑΓΩΝΙΣΜΟΣ: HP",
+            "informed_contacts": 17,
+            "question_surveys": [
+              {
+                "id": 16199,
+                "units": 2,
+                "question_id": 957059672,
+                "store_survey_id": 774
+              },
+              {
+                "id": 16200,
+                "units": 0,
+                "question_id": 957059671,
+                "store_survey_id": 774
+              },
+              {
+                "id": 16201,
+                "units": 0,
+                "question_id": 957059670,
+                "store_survey_id": 774
+              },
+              {
+                "id": 16202,
+                "units": 14,
+                "question_id": 957059663,
+                "store_survey_id": 774
+              },
+              {
+                "id": 16203,
+                "units": 0,
+                "question_id": 957059668,
+                "store_survey_id": 774
+              },
+              {
+                "id": 16204,
+                "units": 0,
+                "question_id": 957059667,
+                "store_survey_id": 774
+              },
+              {
+                "id": 16205,
+                "units": 0,
+                "question_id": 957059669,
+                "store_survey_id": 774
+              },
+              {
+                "id": 16208,
+                "units": 1,
+                "question_id": 957059664,
+                "store_survey_id": 774
+              },
+              {
+                "id": 16207,
+                "units": 0,
+                "question_id": 957059665,
+                "store_survey_id": 774
+              },
+              {
+                "id": 16206,
+                "units": 0,
+                "question_id": 957059666,
+                "store_survey_id": 774
+              }
+            ]
+          },
+          {
+            "id": 786,
+            "event_date": "2014-04-16",
+            "contacts": 20,
+            "store_id": 252295898,
+            "promo_cycle_id": 43,
+            "comment": "ΑΝΤΑΓΩΝΙΣΜΟΣ: HP",
+            "informed_contacts": 10,
+            "question_surveys": [
+              {
+                "id": 16451,
+                "units": 1,
+                "question_id": 957059672,
+                "store_survey_id": 786
+              },
+              {
+                "id": 16452,
+                "units": 0,
+                "question_id": 957059671,
+                "store_survey_id": 786
+              },
+              {
+                "id": 16453,
+                "units": 0,
+                "question_id": 957059670,
+                "store_survey_id": 786
+              },
+              {
+                "id": 16454,
+                "units": 9,
+                "question_id": 957059663,
+                "store_survey_id": 786
+              },
+              {
+                "id": 16455,
+                "units": 0,
+                "question_id": 957059668,
+                "store_survey_id": 786
+              },
+              {
+                "id": 16456,
+                "units": 0,
+                "question_id": 957059667,
+                "store_survey_id": 786
+              },
+              {
+                "id": 16457,
+                "units": 0,
+                "question_id": 957059669,
+                "store_survey_id": 786
+              },
+              {
+                "id": 16460,
+                "units": 0,
+                "question_id": 957059664,
+                "store_survey_id": 786
+              },
+              {
+                "id": 16459,
+                "units": 0,
+                "question_id": 957059665,
+                "store_survey_id": 786
+              },
+              {
+                "id": 16458,
+                "units": 0,
+                "question_id": 957059666,
+                "store_survey_id": 786
+              }
+            ]
+          },
+          {
+            "id": 810,
+            "event_date": "2014-04-17",
+            "contacts": 15,
+            "store_id": 252295898,
+            "promo_cycle_id": 43,
+            "comment": "ΑΝΤΑΓΩΝΙΣΜΟΣ: HP",
+            "informed_contacts": 8,
+            "question_surveys": [
+              {
+                "id": 16955,
+                "units": 0,
+                "question_id": 957059672,
+                "store_survey_id": 810
+              },
+              {
+                "id": 16956,
+                "units": 1,
+                "question_id": 957059671,
+                "store_survey_id": 810
+              },
+              {
+                "id": 16957,
+                "units": 0,
+                "question_id": 957059670,
+                "store_survey_id": 810
+              },
+              {
+                "id": 16958,
+                "units": 7,
+                "question_id": 957059663,
+                "store_survey_id": 810
+              },
+              {
+                "id": 16959,
+                "units": 0,
+                "question_id": 957059668,
+                "store_survey_id": 810
+              },
+              {
+                "id": 16960,
+                "units": 0,
+                "question_id": 957059667,
+                "store_survey_id": 810
+              },
+              {
+                "id": 16961,
+                "units": 0,
+                "question_id": 957059669,
+                "store_survey_id": 810
+              },
+              {
+                "id": 16964,
+                "units": 0,
+                "question_id": 957059664,
+                "store_survey_id": 810
+              },
+              {
+                "id": 16963,
+                "units": 0,
+                "question_id": 957059665,
+                "store_survey_id": 810
+              },
+              {
+                "id": 16962,
+                "units": 0,
+                "question_id": 957059666,
+                "store_survey_id": 810
+              }
+            ]
+          },
+          {
+            "id": 822,
+            "event_date": "2014-04-18",
+            "contacts": 12,
+            "store_id": 252295898,
+            "promo_cycle_id": 43,
+            "comment": "ΑΝΤΑΓΩΝΙΣΜΟΣ: HP",
+            "informed_contacts": 10,
+            "question_surveys": [
+              {
+                "id": 17207,
+                "units": 0,
+                "question_id": 957059672,
+                "store_survey_id": 822
+              },
+              {
+                "id": 17208,
+                "units": 0,
+                "question_id": 957059671,
+                "store_survey_id": 822
+              },
+              {
+                "id": 17209,
+                "units": 0,
+                "question_id": 957059670,
+                "store_survey_id": 822
+              },
+              {
+                "id": 17210,
+                "units": 10,
+                "question_id": 957059663,
+                "store_survey_id": 822
+              },
+              {
+                "id": 17211,
+                "units": 0,
+                "question_id": 957059668,
+                "store_survey_id": 822
+              },
+              {
+                "id": 17212,
+                "units": 0,
+                "question_id": 957059667,
+                "store_survey_id": 822
+              },
+              {
+                "id": 17213,
+                "units": 0,
+                "question_id": 957059669,
+                "store_survey_id": 822
+              },
+              {
+                "id": 17216,
+                "units": 0,
+                "question_id": 957059664,
+                "store_survey_id": 822
+              },
+              {
+                "id": 17215,
+                "units": 0,
+                "question_id": 957059665,
+                "store_survey_id": 822
+              },
+              {
+                "id": 17214,
+                "units": 0,
+                "question_id": 957059666,
+                "store_survey_id": 822
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 773554586,
+        "location_id": 491633835,
+        "chain_store_id": 830716792,
+        "store_surveys": [
+          {
+            "id": 777,
+            "event_date": "2014-04-15",
+            "contacts": 23,
+            "store_id": 773554586,
+            "promo_cycle_id": 43,
+            "comment": "",
+            "informed_contacts": 12,
+            "question_surveys": [
+              {
+                "id": 16262,
+                "units": 0,
+                "question_id": 957059672,
+                "store_survey_id": 777
+              },
+              {
+                "id": 16263,
+                "units": 0,
+                "question_id": 957059671,
+                "store_survey_id": 777
+              },
+              {
+                "id": 16264,
+                "units": 0,
+                "question_id": 957059670,
+                "store_survey_id": 777
+              },
+              {
+                "id": 16265,
+                "units": 10,
+                "question_id": 957059663,
+                "store_survey_id": 777
+              },
+              {
+                "id": 16266,
+                "units": 0,
+                "question_id": 957059668,
+                "store_survey_id": 777
+              },
+              {
+                "id": 16267,
+                "units": 2,
+                "question_id": 957059667,
+                "store_survey_id": 777
+              },
+              {
+                "id": 16268,
+                "units": 0,
+                "question_id": 957059669,
+                "store_survey_id": 777
+              },
+              {
+                "id": 16271,
+                "units": 0,
+                "question_id": 957059664,
+                "store_survey_id": 777
+              },
+              {
+                "id": 16270,
+                "units": 0,
+                "question_id": 957059665,
+                "store_survey_id": 777
+              },
+              {
+                "id": 16269,
+                "units": 0,
+                "question_id": 957059666,
+                "store_survey_id": 777
+              }
+            ]
+          },
+          {
+            "id": 789,
+            "event_date": "2014-04-16",
+            "contacts": 22,
+            "store_id": 773554586,
+            "promo_cycle_id": 43,
+            "comment": "",
+            "informed_contacts": 14,
+            "question_surveys": [
+              {
+                "id": 16514,
+                "units": 0,
+                "question_id": 957059672,
+                "store_survey_id": 789
+              },
+              {
+                "id": 16515,
+                "units": 0,
+                "question_id": 957059671,
+                "store_survey_id": 789
+              },
+              {
+                "id": 16516,
+                "units": 0,
+                "question_id": 957059670,
+                "store_survey_id": 789
+              },
+              {
+                "id": 16517,
+                "units": 14,
+                "question_id": 957059663,
+                "store_survey_id": 789
+              },
+              {
+                "id": 16518,
+                "units": 0,
+                "question_id": 957059668,
+                "store_survey_id": 789
+              },
+              {
+                "id": 16519,
+                "units": 0,
+                "question_id": 957059667,
+                "store_survey_id": 789
+              },
+              {
+                "id": 16520,
+                "units": 0,
+                "question_id": 957059669,
+                "store_survey_id": 789
+              },
+              {
+                "id": 16523,
+                "units": 0,
+                "question_id": 957059664,
+                "store_survey_id": 789
+              },
+              {
+                "id": 16522,
+                "units": 0,
+                "question_id": 957059665,
+                "store_survey_id": 789
+              },
+              {
+                "id": 16521,
+                "units": 0,
+                "question_id": 957059666,
+                "store_survey_id": 789
+              }
+            ]
+          },
+          {
+            "id": 813,
+            "event_date": "2014-04-17",
+            "contacts": 14,
+            "store_id": 773554586,
+            "promo_cycle_id": 43,
+            "comment": "",
+            "informed_contacts": 10,
+            "question_surveys": [
+              {
+                "id": 17018,
+                "units": 0,
+                "question_id": 957059672,
+                "store_survey_id": 813
+              },
+              {
+                "id": 17019,
+                "units": 0,
+                "question_id": 957059671,
+                "store_survey_id": 813
+              },
+              {
+                "id": 17020,
+                "units": 0,
+                "question_id": 957059670,
+                "store_survey_id": 813
+              },
+              {
+                "id": 17021,
+                "units": 10,
+                "question_id": 957059663,
+                "store_survey_id": 813
+              },
+              {
+                "id": 17022,
+                "units": 0,
+                "question_id": 957059668,
+                "store_survey_id": 813
+              },
+              {
+                "id": 17023,
+                "units": 0,
+                "question_id": 957059667,
+                "store_survey_id": 813
+              },
+              {
+                "id": 17024,
+                "units": 0,
+                "question_id": 957059669,
+                "store_survey_id": 813
+              },
+              {
+                "id": 17027,
+                "units": 0,
+                "question_id": 957059664,
+                "store_survey_id": 813
+              },
+              {
+                "id": 17026,
+                "units": 0,
+                "question_id": 957059665,
+                "store_survey_id": 813
+              },
+              {
+                "id": 17025,
+                "units": 0,
+                "question_id": 957059666,
+                "store_survey_id": 813
+              }
+            ]
+          },
+          {
+            "id": 825,
+            "event_date": "2014-04-18",
+            "contacts": 10,
+            "store_id": 773554586,
+            "promo_cycle_id": 43,
+            "comment": "",
+            "informed_contacts": 8,
+            "question_surveys": [
+              {
+                "id": 17270,
+                "units": 0,
+                "question_id": 957059672,
+                "store_survey_id": 825
+              },
+              {
+                "id": 17271,
+                "units": 0,
+                "question_id": 957059671,
+                "store_survey_id": 825
+              },
+              {
+                "id": 17272,
+                "units": 0,
+                "question_id": 957059670,
+                "store_survey_id": 825
+              },
+              {
+                "id": 17273,
+                "units": 8,
+                "question_id": 957059663,
+                "store_survey_id": 825
+              },
+              {
+                "id": 17274,
+                "units": 0,
+                "question_id": 957059668,
+                "store_survey_id": 825
+              },
+              {
+                "id": 17275,
+                "units": 0,
+                "question_id": 957059667,
+                "store_survey_id": 825
+              },
+              {
+                "id": 17276,
+                "units": 0,
+                "question_id": 957059669,
+                "store_survey_id": 825
+              },
+              {
+                "id": 17279,
+                "units": 0,
+                "question_id": 957059664,
+                "store_survey_id": 825
+              },
+              {
+                "id": 17278,
+                "units": 0,
+                "question_id": 957059665,
+                "store_survey_id": 825
+              },
+              {
+                "id": 17277,
+                "units": 0,
+                "question_id": 957059666,
+                "store_survey_id": 825
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 761724828,
+        "location_id": 235865760,
+        "chain_store_id": 830716792,
+        "store_surveys": [
+          {
+            "id": 773,
+            "event_date": "2014-04-15",
+            "contacts": 35,
+            "store_id": 761724828,
+            "promo_cycle_id": 43,
+            "comment": "ΑΝΤΑΓΩΝΙΣΜΟΣ: HP",
+            "informed_contacts": 20,
+            "question_surveys": [
+              {
+                "id": 16178,
+                "units": 2,
+                "question_id": 957059672,
+                "store_survey_id": 773
+              },
+              {
+                "id": 16179,
+                "units": 0,
+                "question_id": 957059671,
+                "store_survey_id": 773
+              },
+              {
+                "id": 16180,
+                "units": 0,
+                "question_id": 957059670,
+                "store_survey_id": 773
+              },
+              {
+                "id": 16181,
+                "units": 18,
+                "question_id": 957059663,
+                "store_survey_id": 773
+              },
+              {
+                "id": 16182,
+                "units": 0,
+                "question_id": 957059668,
+                "store_survey_id": 773
+              },
+              {
+                "id": 16183,
+                "units": 0,
+                "question_id": 957059667,
+                "store_survey_id": 773
+              },
+              {
+                "id": 16184,
+                "units": 0,
+                "question_id": 957059669,
+                "store_survey_id": 773
+              },
+              {
+                "id": 16187,
+                "units": 0,
+                "question_id": 957059664,
+                "store_survey_id": 773
+              },
+              {
+                "id": 16186,
+                "units": 0,
+                "question_id": 957059665,
+                "store_survey_id": 773
+              },
+              {
+                "id": 16185,
+                "units": 0,
+                "question_id": 957059666,
+                "store_survey_id": 773
+              }
+            ]
+          },
+          {
+            "id": 785,
+            "event_date": "2014-04-16",
+            "contacts": 33,
+            "store_id": 761724828,
+            "promo_cycle_id": 43,
+            "comment": "ΑΝΤΑΓΩΝΙΣΜΟΣ: HP",
+            "informed_contacts": 22,
+            "question_surveys": [
+              {
+                "id": 16430,
+                "units": 3,
+                "question_id": 957059672,
+                "store_survey_id": 785
+              },
+              {
+                "id": 16431,
+                "units": 0,
+                "question_id": 957059671,
+                "store_survey_id": 785
+              },
+              {
+                "id": 16432,
+                "units": 0,
+                "question_id": 957059670,
+                "store_survey_id": 785
+              },
+              {
+                "id": 16433,
+                "units": 19,
+                "question_id": 957059663,
+                "store_survey_id": 785
+              },
+              {
+                "id": 16434,
+                "units": 0,
+                "question_id": 957059668,
+                "store_survey_id": 785
+              },
+              {
+                "id": 16435,
+                "units": 0,
+                "question_id": 957059667,
+                "store_survey_id": 785
+              },
+              {
+                "id": 16436,
+                "units": 0,
+                "question_id": 957059669,
+                "store_survey_id": 785
+              },
+              {
+                "id": 16439,
+                "units": 0,
+                "question_id": 957059664,
+                "store_survey_id": 785
+              },
+              {
+                "id": 16438,
+                "units": 0,
+                "question_id": 957059665,
+                "store_survey_id": 785
+              },
+              {
+                "id": 16437,
+                "units": 0,
+                "question_id": 957059666,
+                "store_survey_id": 785
+              }
+            ]
+          },
+          {
+            "id": 809,
+            "event_date": "2014-04-17",
+            "contacts": 22,
+            "store_id": 761724828,
+            "promo_cycle_id": 43,
+            "comment": "ΑΝΤΑΓΩΝΙΣΜΟΣ: HP",
+            "informed_contacts": 14,
+            "question_surveys": [
+              {
+                "id": 16934,
+                "units": 2,
+                "question_id": 957059672,
+                "store_survey_id": 809
+              },
+              {
+                "id": 16935,
+                "units": 0,
+                "question_id": 957059671,
+                "store_survey_id": 809
+              },
+              {
+                "id": 16936,
+                "units": 0,
+                "question_id": 957059670,
+                "store_survey_id": 809
+              },
+              {
+                "id": 16937,
+                "units": 12,
+                "question_id": 957059663,
+                "store_survey_id": 809
+              },
+              {
+                "id": 16938,
+                "units": 0,
+                "question_id": 957059668,
+                "store_survey_id": 809
+              },
+              {
+                "id": 16939,
+                "units": 0,
+                "question_id": 957059667,
+                "store_survey_id": 809
+              },
+              {
+                "id": 16940,
+                "units": 0,
+                "question_id": 957059669,
+                "store_survey_id": 809
+              },
+              {
+                "id": 16943,
+                "units": 0,
+                "question_id": 957059664,
+                "store_survey_id": 809
+              },
+              {
+                "id": 16942,
+                "units": 0,
+                "question_id": 957059665,
+                "store_survey_id": 809
+              },
+              {
+                "id": 16941,
+                "units": 0,
+                "question_id": 957059666,
+                "store_survey_id": 809
+              }
+            ]
+          },
+          {
+            "id": 821,
+            "event_date": "2014-04-18",
+            "contacts": 20,
+            "store_id": 761724828,
+            "promo_cycle_id": 43,
+            "comment": "ΑΝΤΑΓΩΝΙΣΜΟΣ: HP",
+            "informed_contacts": 11,
+            "question_surveys": [
+              {
+                "id": 17186,
+                "units": 2,
+                "question_id": 957059672,
+                "store_survey_id": 821
+              },
+              {
+                "id": 17187,
+                "units": 0,
+                "question_id": 957059671,
+                "store_survey_id": 821
+              },
+              {
+                "id": 17188,
+                "units": 0,
+                "question_id": 957059670,
+                "store_survey_id": 821
+              },
+              {
+                "id": 17189,
+                "units": 9,
+                "question_id": 957059663,
+                "store_survey_id": 821
+              },
+              {
+                "id": 17190,
+                "units": 0,
+                "question_id": 957059668,
+                "store_survey_id": 821
+              },
+              {
+                "id": 17191,
+                "units": 0,
+                "question_id": 957059667,
+                "store_survey_id": 821
+              },
+              {
+                "id": 17192,
+                "units": 0,
+                "question_id": 957059669,
+                "store_survey_id": 821
+              },
+              {
+                "id": 17195,
+                "units": 0,
+                "question_id": 957059664,
+                "store_survey_id": 821
+              },
+              {
+                "id": 17194,
+                "units": 0,
+                "question_id": 957059665,
+                "store_survey_id": 821
+              },
+              {
+                "id": 17193,
+                "units": 0,
+                "question_id": 957059666,
+                "store_survey_id": 821
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 978429455,
+        "location_id": 591109710,
+        "chain_store_id": 830716792,
+        "store_surveys": [
+          {
+            "id": 776,
+            "event_date": "2014-04-15",
+            "contacts": 31,
+            "store_id": 978429455,
+            "promo_cycle_id": 43,
+            "comment": "",
+            "informed_contacts": 18,
+            "question_surveys": [
+              {
+                "id": 16241,
+                "units": 0,
+                "question_id": 957059672,
+                "store_survey_id": 776
+              },
+              {
+                "id": 16242,
+                "units": 0,
+                "question_id": 957059671,
+                "store_survey_id": 776
+              },
+              {
+                "id": 16243,
+                "units": 0,
+                "question_id": 957059670,
+                "store_survey_id": 776
+              },
+              {
+                "id": 16244,
+                "units": 18,
+                "question_id": 957059663,
+                "store_survey_id": 776
+              },
+              {
+                "id": 16245,
+                "units": 0,
+                "question_id": 957059668,
+                "store_survey_id": 776
+              },
+              {
+                "id": 16246,
+                "units": 0,
+                "question_id": 957059667,
+                "store_survey_id": 776
+              },
+              {
+                "id": 16247,
+                "units": 0,
+                "question_id": 957059669,
+                "store_survey_id": 776
+              },
+              {
+                "id": 16250,
+                "units": 0,
+                "question_id": 957059664,
+                "store_survey_id": 776
+              },
+              {
+                "id": 16249,
+                "units": 0,
+                "question_id": 957059665,
+                "store_survey_id": 776
+              },
+              {
+                "id": 16248,
+                "units": 0,
+                "question_id": 957059666,
+                "store_survey_id": 776
+              }
+            ]
+          },
+          {
+            "id": 788,
+            "event_date": "2014-04-16",
+            "contacts": 20,
+            "store_id": 978429455,
+            "promo_cycle_id": 43,
+            "comment": "",
+            "informed_contacts": 15,
+            "question_surveys": [
+              {
+                "id": 16493,
+                "units": 0,
+                "question_id": 957059672,
+                "store_survey_id": 788
+              },
+              {
+                "id": 16494,
+                "units": 0,
+                "question_id": 957059671,
+                "store_survey_id": 788
+              },
+              {
+                "id": 16495,
+                "units": 0,
+                "question_id": 957059670,
+                "store_survey_id": 788
+              },
+              {
+                "id": 16496,
+                "units": 15,
+                "question_id": 957059663,
+                "store_survey_id": 788
+              },
+              {
+                "id": 16497,
+                "units": 0,
+                "question_id": 957059668,
+                "store_survey_id": 788
+              },
+              {
+                "id": 16498,
+                "units": 0,
+                "question_id": 957059667,
+                "store_survey_id": 788
+              },
+              {
+                "id": 16499,
+                "units": 0,
+                "question_id": 957059669,
+                "store_survey_id": 788
+              },
+              {
+                "id": 16502,
+                "units": 0,
+                "question_id": 957059664,
+                "store_survey_id": 788
+              },
+              {
+                "id": 16501,
+                "units": 0,
+                "question_id": 957059665,
+                "store_survey_id": 788
+              },
+              {
+                "id": 16500,
+                "units": 0,
+                "question_id": 957059666,
+                "store_survey_id": 788
+              }
+            ]
+          },
+          {
+            "id": 812,
+            "event_date": "2014-04-17",
+            "contacts": 39,
+            "store_id": 978429455,
+            "promo_cycle_id": 43,
+            "comment": "",
+            "informed_contacts": 20,
+            "question_surveys": [
+              {
+                "id": 16997,
+                "units": 0,
+                "question_id": 957059672,
+                "store_survey_id": 812
+              },
+              {
+                "id": 16998,
+                "units": 0,
+                "question_id": 957059671,
+                "store_survey_id": 812
+              },
+              {
+                "id": 16999,
+                "units": 0,
+                "question_id": 957059670,
+                "store_survey_id": 812
+              },
+              {
+                "id": 17000,
+                "units": 20,
+                "question_id": 957059663,
+                "store_survey_id": 812
+              },
+              {
+                "id": 17001,
+                "units": 0,
+                "question_id": 957059668,
+                "store_survey_id": 812
+              },
+              {
+                "id": 17002,
+                "units": 0,
+                "question_id": 957059667,
+                "store_survey_id": 812
+              },
+              {
+                "id": 17003,
+                "units": 0,
+                "question_id": 957059669,
+                "store_survey_id": 812
+              },
+              {
+                "id": 17006,
+                "units": 0,
+                "question_id": 957059664,
+                "store_survey_id": 812
+              },
+              {
+                "id": 17005,
+                "units": 0,
+                "question_id": 957059665,
+                "store_survey_id": 812
+              },
+              {
+                "id": 17004,
+                "units": 0,
+                "question_id": 957059666,
+                "store_survey_id": 812
+              }
+            ]
+          },
+          {
+            "id": 824,
+            "event_date": "2014-04-18",
+            "contacts": 41,
+            "store_id": 978429455,
+            "promo_cycle_id": 43,
+            "comment": "",
+            "informed_contacts": 27,
+            "question_surveys": [
+              {
+                "id": 17249,
+                "units": 0,
+                "question_id": 957059672,
+                "store_survey_id": 824
+              },
+              {
+                "id": 17250,
+                "units": 0,
+                "question_id": 957059671,
+                "store_survey_id": 824
+              },
+              {
+                "id": 17251,
+                "units": 0,
+                "question_id": 957059670,
+                "store_survey_id": 824
+              },
+              {
+                "id": 17252,
+                "units": 27,
+                "question_id": 957059663,
+                "store_survey_id": 824
+              },
+              {
+                "id": 17253,
+                "units": 0,
+                "question_id": 957059668,
+                "store_survey_id": 824
+              },
+              {
+                "id": 17254,
+                "units": 0,
+                "question_id": 957059667,
+                "store_survey_id": 824
+              },
+              {
+                "id": 17255,
+                "units": 0,
+                "question_id": 957059669,
+                "store_survey_id": 824
+              },
+              {
+                "id": 17258,
+                "units": 0,
+                "question_id": 957059664,
+                "store_survey_id": 824
+              },
+              {
+                "id": 17257,
+                "units": 0,
+                "question_id": 957059665,
+                "store_survey_id": 824
+              },
+              {
+                "id": 17256,
+                "units": 0,
+                "question_id": 957059666,
+                "store_survey_id": 824
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 516926709,
+        "location_id": 830723808,
+        "chain_store_id": 830716792,
+        "store_surveys": [
+          {
+            "id": 772,
+            "event_date": "2014-04-15",
+            "contacts": 52,
+            "store_id": 516926709,
+            "promo_cycle_id": 43,
+            "comment": "",
+            "informed_contacts": 33,
+            "question_surveys": [
+              {
+                "id": 16157,
+                "units": 0,
+                "question_id": 957059672,
+                "store_survey_id": 772
+              },
+              {
+                "id": 16158,
+                "units": 2,
+                "question_id": 957059671,
+                "store_survey_id": 772
+              },
+              {
+                "id": 16159,
+                "units": 0,
+                "question_id": 957059670,
+                "store_survey_id": 772
+              },
+              {
+                "id": 16160,
+                "units": 27,
+                "question_id": 957059663,
+                "store_survey_id": 772
+              },
+              {
+                "id": 16161,
+                "units": 0,
+                "question_id": 957059668,
+                "store_survey_id": 772
+              },
+              {
+                "id": 16162,
+                "units": 0,
+                "question_id": 957059667,
+                "store_survey_id": 772
+              },
+              {
+                "id": 16163,
+                "units": 0,
+                "question_id": 957059669,
+                "store_survey_id": 772
+              },
+              {
+                "id": 16166,
+                "units": 4,
+                "question_id": 957059664,
+                "store_survey_id": 772
+              },
+              {
+                "id": 16165,
+                "units": 0,
+                "question_id": 957059665,
+                "store_survey_id": 772
+              },
+              {
+                "id": 16164,
+                "units": 0,
+                "question_id": 957059666,
+                "store_survey_id": 772
+              }
+            ]
+          },
+          {
+            "id": 784,
+            "event_date": "2014-04-16",
+            "contacts": 47,
+            "store_id": 516926709,
+            "promo_cycle_id": 43,
+            "comment": "",
+            "informed_contacts": 29,
+            "question_surveys": [
+              {
+                "id": 16409,
+                "units": 0,
+                "question_id": 957059672,
+                "store_survey_id": 784
+              },
+              {
+                "id": 16410,
+                "units": 0,
+                "question_id": 957059671,
+                "store_survey_id": 784
+              },
+              {
+                "id": 16411,
+                "units": 0,
+                "question_id": 957059670,
+                "store_survey_id": 784
+              },
+              {
+                "id": 16412,
+                "units": 28,
+                "question_id": 957059663,
+                "store_survey_id": 784
+              },
+              {
+                "id": 16413,
+                "units": 0,
+                "question_id": 957059668,
+                "store_survey_id": 784
+              },
+              {
+                "id": 16414,
+                "units": 0,
+                "question_id": 957059667,
+                "store_survey_id": 784
+              },
+              {
+                "id": 16415,
+                "units": 0,
+                "question_id": 957059669,
+                "store_survey_id": 784
+              },
+              {
+                "id": 16418,
+                "units": 1,
+                "question_id": 957059664,
+                "store_survey_id": 784
+              },
+              {
+                "id": 16417,
+                "units": 0,
+                "question_id": 957059665,
+                "store_survey_id": 784
+              },
+              {
+                "id": 16416,
+                "units": 0,
+                "question_id": 957059666,
+                "store_survey_id": 784
+              }
+            ]
+          },
+          {
+            "id": 808,
+            "event_date": "2014-04-17",
+            "contacts": 54,
+            "store_id": 516926709,
+            "promo_cycle_id": 43,
+            "comment": "",
+            "informed_contacts": 38,
+            "question_surveys": [
+              {
+                "id": 16913,
+                "units": 0,
+                "question_id": 957059672,
+                "store_survey_id": 808
+              },
+              {
+                "id": 16914,
+                "units": 6,
+                "question_id": 957059671,
+                "store_survey_id": 808
+              },
+              {
+                "id": 16915,
+                "units": 0,
+                "question_id": 957059670,
+                "store_survey_id": 808
+              },
+              {
+                "id": 16916,
+                "units": 28,
+                "question_id": 957059663,
+                "store_survey_id": 808
+              },
+              {
+                "id": 16917,
+                "units": 0,
+                "question_id": 957059668,
+                "store_survey_id": 808
+              },
+              {
+                "id": 16918,
+                "units": 0,
+                "question_id": 957059667,
+                "store_survey_id": 808
+              },
+              {
+                "id": 16919,
+                "units": 0,
+                "question_id": 957059669,
+                "store_survey_id": 808
+              },
+              {
+                "id": 16922,
+                "units": 4,
+                "question_id": 957059664,
+                "store_survey_id": 808
+              },
+              {
+                "id": 16921,
+                "units": 0,
+                "question_id": 957059665,
+                "store_survey_id": 808
+              },
+              {
+                "id": 16920,
+                "units": 0,
+                "question_id": 957059666,
+                "store_survey_id": 808
+              }
+            ]
+          },
+          {
+            "id": 820,
+            "event_date": "2014-04-18",
+            "contacts": 60,
+            "store_id": 516926709,
+            "promo_cycle_id": 43,
+            "comment": "",
+            "informed_contacts": 47,
+            "question_surveys": [
+              {
+                "id": 17165,
+                "units": 1,
+                "question_id": 957059672,
+                "store_survey_id": 820
+              },
+              {
+                "id": 17166,
+                "units": 8,
+                "question_id": 957059671,
+                "store_survey_id": 820
+              },
+              {
+                "id": 17167,
+                "units": 0,
+                "question_id": 957059670,
+                "store_survey_id": 820
+              },
+              {
+                "id": 17168,
+                "units": 33,
+                "question_id": 957059663,
+                "store_survey_id": 820
+              },
+              {
+                "id": 17169,
+                "units": 0,
+                "question_id": 957059668,
+                "store_survey_id": 820
+              },
+              {
+                "id": 17170,
+                "units": 0,
+                "question_id": 957059667,
+                "store_survey_id": 820
+              },
+              {
+                "id": 17171,
+                "units": 0,
+                "question_id": 957059669,
+                "store_survey_id": 820
+              },
+              {
+                "id": 17174,
+                "units": 5,
+                "question_id": 957059664,
+                "store_survey_id": 820
+              },
+              {
+                "id": 17173,
+                "units": 0,
+                "question_id": 957059665,
+                "store_survey_id": 820
+              },
+              {
+                "id": 17172,
+                "units": 0,
+                "question_id": 957059666,
+                "store_survey_id": 820
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 1041634641,
+        "location_id": 959773964,
+        "chain_store_id": 830716792,
+        "store_surveys": [
+          {
+            "id": 771,
+            "event_date": "2014-04-15",
+            "contacts": 28,
+            "store_id": 1041634641,
+            "promo_cycle_id": 43,
+            "comment": "ΑΝΤΑΓΩΝΙΣΜΟΣ: HP, APPLE",
+            "informed_contacts": 17,
+            "question_surveys": [
+              {
+                "id": 16136,
+                "units": 2,
+                "question_id": 957059672,
+                "store_survey_id": 771
+              },
+              {
+                "id": 16137,
+                "units": 1,
+                "question_id": 957059671,
+                "store_survey_id": 771
+              },
+              {
+                "id": 16138,
+                "units": 0,
+                "question_id": 957059670,
+                "store_survey_id": 771
+              },
+              {
+                "id": 16139,
+                "units": 13,
+                "question_id": 957059663,
+                "store_survey_id": 771
+              },
+              {
+                "id": 16140,
+                "units": 0,
+                "question_id": 957059668,
+                "store_survey_id": 771
+              },
+              {
+                "id": 16141,
+                "units": 1,
+                "question_id": 957059667,
+                "store_survey_id": 771
+              },
+              {
+                "id": 16142,
+                "units": 0,
+                "question_id": 957059669,
+                "store_survey_id": 771
+              },
+              {
+                "id": 16145,
+                "units": 0,
+                "question_id": 957059664,
+                "store_survey_id": 771
+              },
+              {
+                "id": 16144,
+                "units": 0,
+                "question_id": 957059665,
+                "store_survey_id": 771
+              },
+              {
+                "id": 16143,
+                "units": 0,
+                "question_id": 957059666,
+                "store_survey_id": 771
+              }
+            ]
+          },
+          {
+            "id": 783,
+            "event_date": "2014-04-16",
+            "contacts": 21,
+            "store_id": 1041634641,
+            "promo_cycle_id": 43,
+            "comment": "ΑΝΤΑΓΩΝΙΣΜΟΣ: HP, APPLE",
+            "informed_contacts": 19,
+            "question_surveys": [
+              {
+                "id": 16388,
+                "units": 1,
+                "question_id": 957059672,
+                "store_survey_id": 783
+              },
+              {
+                "id": 16389,
+                "units": 0,
+                "question_id": 957059671,
+                "store_survey_id": 783
+              },
+              {
+                "id": 16390,
+                "units": 0,
+                "question_id": 957059670,
+                "store_survey_id": 783
+              },
+              {
+                "id": 16391,
+                "units": 15,
+                "question_id": 957059663,
+                "store_survey_id": 783
+              },
+              {
+                "id": 16392,
+                "units": 0,
+                "question_id": 957059668,
+                "store_survey_id": 783
+              },
+              {
+                "id": 16393,
+                "units": 3,
+                "question_id": 957059667,
+                "store_survey_id": 783
+              },
+              {
+                "id": 16394,
+                "units": 0,
+                "question_id": 957059669,
+                "store_survey_id": 783
+              },
+              {
+                "id": 16397,
+                "units": 0,
+                "question_id": 957059664,
+                "store_survey_id": 783
+              },
+              {
+                "id": 16396,
+                "units": 0,
+                "question_id": 957059665,
+                "store_survey_id": 783
+              },
+              {
+                "id": 16395,
+                "units": 0,
+                "question_id": 957059666,
+                "store_survey_id": 783
+              }
+            ]
+          },
+          {
+            "id": 807,
+            "event_date": "2014-04-17",
+            "contacts": 27,
+            "store_id": 1041634641,
+            "promo_cycle_id": 43,
+            "comment": "ΑΝΤΑΓΩΝΙΣΜΟΣ: HP, APPLE",
+            "informed_contacts": 16,
+            "question_surveys": [
+              {
+                "id": 16892,
+                "units": 1,
+                "question_id": 957059672,
+                "store_survey_id": 807
+              },
+              {
+                "id": 16893,
+                "units": 0,
+                "question_id": 957059671,
+                "store_survey_id": 807
+              },
+              {
+                "id": 16894,
+                "units": 1,
+                "question_id": 957059670,
+                "store_survey_id": 807
+              },
+              {
+                "id": 16895,
+                "units": 12,
+                "question_id": 957059663,
+                "store_survey_id": 807
+              },
+              {
+                "id": 16896,
+                "units": 0,
+                "question_id": 957059668,
+                "store_survey_id": 807
+              },
+              {
+                "id": 16897,
+                "units": 1,
+                "question_id": 957059667,
+                "store_survey_id": 807
+              },
+              {
+                "id": 16898,
+                "units": 0,
+                "question_id": 957059669,
+                "store_survey_id": 807
+              },
+              {
+                "id": 16901,
+                "units": 0,
+                "question_id": 957059664,
+                "store_survey_id": 807
+              },
+              {
+                "id": 16900,
+                "units": 0,
+                "question_id": 957059665,
+                "store_survey_id": 807
+              },
+              {
+                "id": 16899,
+                "units": 0,
+                "question_id": 957059666,
+                "store_survey_id": 807
+              }
+            ]
+          },
+          {
+            "id": 819,
+            "event_date": "2014-04-18",
+            "contacts": 34,
+            "store_id": 1041634641,
+            "promo_cycle_id": 43,
+            "comment": "ΑΝΤΑΓΩΝΙΣΜΟΣ: HP, APPLE",
+            "informed_contacts": 17,
+            "question_surveys": [
+              {
+                "id": 17144,
+                "units": 1,
+                "question_id": 957059672,
+                "store_survey_id": 819
+              },
+              {
+                "id": 17145,
+                "units": 1,
+                "question_id": 957059671,
+                "store_survey_id": 819
+              },
+              {
+                "id": 17146,
+                "units": 3,
+                "question_id": 957059670,
+                "store_survey_id": 819
+              },
+              {
+                "id": 17147,
+                "units": 7,
+                "question_id": 957059663,
+                "store_survey_id": 819
+              },
+              {
+                "id": 17148,
+                "units": 0,
+                "question_id": 957059668,
+                "store_survey_id": 819
+              },
+              {
+                "id": 17149,
+                "units": 6,
+                "question_id": 957059667,
+                "store_survey_id": 819
+              },
+              {
+                "id": 17150,
+                "units": 0,
+                "question_id": 957059669,
+                "store_survey_id": 819
+              },
+              {
+                "id": 17153,
+                "units": 0,
+                "question_id": 957059664,
+                "store_survey_id": 819
+              },
+              {
+                "id": 17152,
+                "units": 0,
+                "question_id": 957059665,
+                "store_survey_id": 819
+              },
+              {
+                "id": 17151,
+                "units": 0,
+                "question_id": 957059666,
+                "store_survey_id": 819
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 934821023,
+    "name": "MEDIA MARKT",
+    "stores": [
+      {
+        "id": 69748747,
+        "location_id": 477202049,
+        "chain_store_id": 934821023,
+        "store_surveys": [
+          {
+            "id": 765,
+            "event_date": "2014-04-15",
+            "contacts": 38,
+            "store_id": 69748747,
+            "promo_cycle_id": 43,
+            "comment": "ΑΝΤΑΓΩΝΙΣΜΟΣ: HP, SAMSUNG, SONY",
+            "informed_contacts": 26,
+            "question_surveys": [
+              {
+                "id": 16013,
+                "units": 22,
+                "question_id": 957059672,
+                "store_survey_id": 765
+              },
+              {
+                "id": 16011,
+                "units": 0,
+                "question_id": 957059671,
+                "store_survey_id": 765
+              },
+              {
+                "id": 16015,
+                "units": 3,
+                "question_id": 957059670,
+                "store_survey_id": 765
+              },
+              {
+                "id": 16006,
+                "units": 0,
+                "question_id": 957059663,
+                "store_survey_id": 765
+              },
+              {
+                "id": 16016,
+                "units": 0,
+                "question_id": 957059668,
+                "store_survey_id": 765
+              },
+              {
+                "id": 16005,
+                "units": 1,
+                "question_id": 957059667,
+                "store_survey_id": 765
+              },
+              {
+                "id": 16017,
+                "units": 0,
+                "question_id": 957059669,
+                "store_survey_id": 765
+              },
+              {
+                "id": 16014,
+                "units": 0,
+                "question_id": 957059664,
+                "store_survey_id": 765
+              },
+              {
+                "id": 16019,
+                "units": 0,
+                "question_id": 957059665,
+                "store_survey_id": 765
+              },
+              {
+                "id": 16018,
+                "units": 0,
+                "question_id": 957059666,
+                "store_survey_id": 765
+              }
+            ]
+          },
+          {
+            "id": 790,
+            "event_date": "2014-04-16",
+            "contacts": 40,
+            "store_id": 69748747,
+            "promo_cycle_id": 43,
+            "comment": "ΑΝΤΑΓΩΝΙΣΜΟΣ: HP, SAMSUNG, SONY",
+            "informed_contacts": 29,
+            "question_surveys": [
+              {
+                "id": 16535,
+                "units": 1,
+                "question_id": 957059672,
+                "store_survey_id": 790
+              },
+              {
+                "id": 16536,
+                "units": 0,
+                "question_id": 957059671,
+                "store_survey_id": 790
+              },
+              {
+                "id": 16537,
+                "units": 0,
+                "question_id": 957059670,
+                "store_survey_id": 790
+              },
+              {
+                "id": 16538,
+                "units": 28,
+                "question_id": 957059663,
+                "store_survey_id": 790
+              },
+              {
+                "id": 16539,
+                "units": 0,
+                "question_id": 957059668,
+                "store_survey_id": 790
+              },
+              {
+                "id": 16540,
+                "units": 0,
+                "question_id": 957059667,
+                "store_survey_id": 790
+              },
+              {
+                "id": 16541,
+                "units": 0,
+                "question_id": 957059669,
+                "store_survey_id": 790
+              },
+              {
+                "id": 16544,
+                "units": 0,
+                "question_id": 957059664,
+                "store_survey_id": 790
+              },
+              {
+                "id": 16543,
+                "units": 0,
+                "question_id": 957059665,
+                "store_survey_id": 790
+              },
+              {
+                "id": 16542,
+                "units": 0,
+                "question_id": 957059666,
+                "store_survey_id": 790
+              }
+            ]
+          },
+          {
+            "id": 801,
+            "event_date": "2014-04-17",
+            "contacts": 60,
+            "store_id": 69748747,
+            "promo_cycle_id": 43,
+            "comment": "ΑΝΤΑΓΩΝΙΣΜΟΣ: HP, SAMSUNG, SONY",
+            "informed_contacts": 37,
+            "question_surveys": [
+              {
+                "id": 16766,
+                "units": 0,
+                "question_id": 957059672,
+                "store_survey_id": 801
+              },
+              {
+                "id": 16767,
+                "units": 0,
+                "question_id": 957059671,
+                "store_survey_id": 801
+              },
+              {
+                "id": 16768,
+                "units": 0,
+                "question_id": 957059670,
+                "store_survey_id": 801
+              },
+              {
+                "id": 16769,
+                "units": 37,
+                "question_id": 957059663,
+                "store_survey_id": 801
+              },
+              {
+                "id": 16770,
+                "units": 0,
+                "question_id": 957059668,
+                "store_survey_id": 801
+              },
+              {
+                "id": 16771,
+                "units": 0,
+                "question_id": 957059667,
+                "store_survey_id": 801
+              },
+              {
+                "id": 16772,
+                "units": 0,
+                "question_id": 957059669,
+                "store_survey_id": 801
+              },
+              {
+                "id": 16775,
+                "units": 0,
+                "question_id": 957059664,
+                "store_survey_id": 801
+              },
+              {
+                "id": 16774,
+                "units": 0,
+                "question_id": 957059665,
+                "store_survey_id": 801
+              },
+              {
+                "id": 16773,
+                "units": 0,
+                "question_id": 957059666,
+                "store_survey_id": 801
+              }
+            ]
+          },
+          {
+            "id": 831,
+            "event_date": "2014-04-18",
+            "contacts": 37,
+            "store_id": 69748747,
+            "promo_cycle_id": 43,
+            "comment": "ΑΝΤΑΓΩΝΙΣΜΟΣ: HP, SAMSUNG, SONY",
+            "informed_contacts": 24,
+            "question_surveys": [
+              {
+                "id": 17396,
+                "units": 3,
+                "question_id": 957059672,
+                "store_survey_id": 831
+              },
+              {
+                "id": 17397,
+                "units": 0,
+                "question_id": 957059671,
+                "store_survey_id": 831
+              },
+              {
+                "id": 17398,
+                "units": 0,
+                "question_id": 957059670,
+                "store_survey_id": 831
+              },
+              {
+                "id": 17399,
+                "units": 21,
+                "question_id": 957059663,
+                "store_survey_id": 831
+              },
+              {
+                "id": 17400,
+                "units": 0,
+                "question_id": 957059668,
+                "store_survey_id": 831
+              },
+              {
+                "id": 17401,
+                "units": 0,
+                "question_id": 957059667,
+                "store_survey_id": 831
+              },
+              {
+                "id": 17402,
+                "units": 0,
+                "question_id": 957059669,
+                "store_survey_id": 831
+              },
+              {
+                "id": 17405,
+                "units": 0,
+                "question_id": 957059664,
+                "store_survey_id": 831
+              },
+              {
+                "id": 17404,
+                "units": 0,
+                "question_id": 957059665,
+                "store_survey_id": 831
+              },
+              {
+                "id": 17403,
+                "units": 0,
+                "question_id": 957059666,
+                "store_survey_id": 831
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 750901852,
+        "location_id": 857249669,
+        "chain_store_id": 934821023,
+        "store_surveys": [
+          {
+            "id": 769,
+            "event_date": "2014-04-15",
+            "contacts": 50,
+            "store_id": 750901852,
+            "promo_cycle_id": 43,
+            "comment": "",
+            "informed_contacts": 29,
+            "question_surveys": [
+              {
+                "id": 16097,
+                "units": 28,
+                "question_id": 957059672,
+                "store_survey_id": 769
+              },
+              {
+                "id": 16086,
+                "units": 1,
+                "question_id": 957059671,
+                "store_survey_id": 769
+              },
+              {
+                "id": 16099,
+                "units": 0,
+                "question_id": 957059670,
+                "store_survey_id": 769
+              },
+              {
+                "id": 16096,
+                "units": 0,
+                "question_id": 957059663,
+                "store_survey_id": 769
+              },
+              {
+                "id": 16100,
+                "units": 0,
+                "question_id": 957059668,
+                "store_survey_id": 769
+              },
+              {
+                "id": 16095,
+                "units": 0,
+                "question_id": 957059667,
+                "store_survey_id": 769
+              },
+              {
+                "id": 16101,
+                "units": 0,
+                "question_id": 957059669,
+                "store_survey_id": 769
+              },
+              {
+                "id": 16098,
+                "units": 0,
+                "question_id": 957059664,
+                "store_survey_id": 769
+              },
+              {
+                "id": 16103,
+                "units": 0,
+                "question_id": 957059665,
+                "store_survey_id": 769
+              },
+              {
+                "id": 16102,
+                "units": 0,
+                "question_id": 957059666,
+                "store_survey_id": 769
+              }
+            ]
+          },
+          {
+            "id": 794,
+            "event_date": "2014-04-16",
+            "contacts": 44,
+            "store_id": 750901852,
+            "promo_cycle_id": 43,
+            "comment": "",
+            "informed_contacts": 23,
+            "question_surveys": [
+              {
+                "id": 16619,
+                "units": 0,
+                "question_id": 957059672,
+                "store_survey_id": 794
+              },
+              {
+                "id": 16620,
+                "units": 0,
+                "question_id": 957059671,
+                "store_survey_id": 794
+              },
+              {
+                "id": 16621,
+                "units": 0,
+                "question_id": 957059670,
+                "store_survey_id": 794
+              },
+              {
+                "id": 16622,
+                "units": 23,
+                "question_id": 957059663,
+                "store_survey_id": 794
+              },
+              {
+                "id": 16623,
+                "units": 0,
+                "question_id": 957059668,
+                "store_survey_id": 794
+              },
+              {
+                "id": 16624,
+                "units": 0,
+                "question_id": 957059667,
+                "store_survey_id": 794
+              },
+              {
+                "id": 16625,
+                "units": 0,
+                "question_id": 957059669,
+                "store_survey_id": 794
+              },
+              {
+                "id": 16628,
+                "units": 0,
+                "question_id": 957059664,
+                "store_survey_id": 794
+              },
+              {
+                "id": 16627,
+                "units": 0,
+                "question_id": 957059665,
+                "store_survey_id": 794
+              },
+              {
+                "id": 16626,
+                "units": 0,
+                "question_id": 957059666,
+                "store_survey_id": 794
+              }
+            ]
+          },
+          {
+            "id": 805,
+            "event_date": "2014-04-17",
+            "contacts": 47,
+            "store_id": 750901852,
+            "promo_cycle_id": 43,
+            "comment": "",
+            "informed_contacts": 25,
+            "question_surveys": [
+              {
+                "id": 16850,
+                "units": 2,
+                "question_id": 957059672,
+                "store_survey_id": 805
+              },
+              {
+                "id": 16851,
+                "units": 0,
+                "question_id": 957059671,
+                "store_survey_id": 805
+              },
+              {
+                "id": 16852,
+                "units": 0,
+                "question_id": 957059670,
+                "store_survey_id": 805
+              },
+              {
+                "id": 16853,
+                "units": 23,
+                "question_id": 957059663,
+                "store_survey_id": 805
+              },
+              {
+                "id": 16854,
+                "units": 0,
+                "question_id": 957059668,
+                "store_survey_id": 805
+              },
+              {
+                "id": 16855,
+                "units": 0,
+                "question_id": 957059667,
+                "store_survey_id": 805
+              },
+              {
+                "id": 16856,
+                "units": 0,
+                "question_id": 957059669,
+                "store_survey_id": 805
+              },
+              {
+                "id": 16859,
+                "units": 0,
+                "question_id": 957059664,
+                "store_survey_id": 805
+              },
+              {
+                "id": 16858,
+                "units": 0,
+                "question_id": 957059665,
+                "store_survey_id": 805
+              },
+              {
+                "id": 16857,
+                "units": 0,
+                "question_id": 957059666,
+                "store_survey_id": 805
+              }
+            ]
+          },
+          {
+            "id": 835,
+            "event_date": "2014-04-18",
+            "contacts": 40,
+            "store_id": 750901852,
+            "promo_cycle_id": 43,
+            "comment": "",
+            "informed_contacts": 21,
+            "question_surveys": [
+              {
+                "id": 17480,
+                "units": 0,
+                "question_id": 957059672,
+                "store_survey_id": 835
+              },
+              {
+                "id": 17481,
+                "units": 0,
+                "question_id": 957059671,
+                "store_survey_id": 835
+              },
+              {
+                "id": 17482,
+                "units": 0,
+                "question_id": 957059670,
+                "store_survey_id": 835
+              },
+              {
+                "id": 17483,
+                "units": 20,
+                "question_id": 957059663,
+                "store_survey_id": 835
+              },
+              {
+                "id": 17484,
+                "units": 0,
+                "question_id": 957059668,
+                "store_survey_id": 835
+              },
+              {
+                "id": 17485,
+                "units": 0,
+                "question_id": 957059667,
+                "store_survey_id": 835
+              },
+              {
+                "id": 17486,
+                "units": 0,
+                "question_id": 957059669,
+                "store_survey_id": 835
+              },
+              {
+                "id": 17489,
+                "units": 0,
+                "question_id": 957059664,
+                "store_survey_id": 835
+              },
+              {
+                "id": 17488,
+                "units": 0,
+                "question_id": 957059665,
+                "store_survey_id": 835
+              },
+              {
+                "id": 17487,
+                "units": 0,
+                "question_id": 957059666,
+                "store_survey_id": 835
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 352281248,
+        "location_id": 98676879,
+        "chain_store_id": 934821023,
+        "store_surveys": [
+          {
+            "id": 770,
+            "event_date": "2014-04-15",
+            "contacts": 25,
+            "store_id": 352281248,
+            "promo_cycle_id": 43,
+            "comment": "ΑΝΤΑΓΩΝΙΣΜΟΣ: HP",
+            "informed_contacts": 18,
+            "question_surveys": [
+              {
+                "id": 16115,
+                "units": 0,
+                "question_id": 957059672,
+                "store_survey_id": 770
+              },
+              {
+                "id": 16116,
+                "units": 1,
+                "question_id": 957059671,
+                "store_survey_id": 770
+              },
+              {
+                "id": 16117,
+                "units": 0,
+                "question_id": 957059670,
+                "store_survey_id": 770
+              },
+              {
+                "id": 16118,
+                "units": 16,
+                "question_id": 957059663,
+                "store_survey_id": 770
+              },
+              {
+                "id": 16119,
+                "units": 0,
+                "question_id": 957059668,
+                "store_survey_id": 770
+              },
+              {
+                "id": 16120,
+                "units": 1,
+                "question_id": 957059667,
+                "store_survey_id": 770
+              },
+              {
+                "id": 16121,
+                "units": 0,
+                "question_id": 957059669,
+                "store_survey_id": 770
+              },
+              {
+                "id": 16124,
+                "units": 0,
+                "question_id": 957059664,
+                "store_survey_id": 770
+              },
+              {
+                "id": 16123,
+                "units": 0,
+                "question_id": 957059665,
+                "store_survey_id": 770
+              },
+              {
+                "id": 16122,
+                "units": 0,
+                "question_id": 957059666,
+                "store_survey_id": 770
+              }
+            ]
+          },
+          {
+            "id": 795,
+            "event_date": "2014-04-16",
+            "contacts": 34,
+            "store_id": 352281248,
+            "promo_cycle_id": 43,
+            "comment": "ΑΝΤΑΓΩΝΙΣΜΟΣ: HP",
+            "informed_contacts": 21,
+            "question_surveys": [
+              {
+                "id": 16640,
+                "units": 0,
+                "question_id": 957059672,
+                "store_survey_id": 795
+              },
+              {
+                "id": 16641,
+                "units": 1,
+                "question_id": 957059671,
+                "store_survey_id": 795
+              },
+              {
+                "id": 16642,
+                "units": 0,
+                "question_id": 957059670,
+                "store_survey_id": 795
+              },
+              {
+                "id": 16643,
+                "units": 19,
+                "question_id": 957059663,
+                "store_survey_id": 795
+              },
+              {
+                "id": 16644,
+                "units": 0,
+                "question_id": 957059668,
+                "store_survey_id": 795
+              },
+              {
+                "id": 16645,
+                "units": 1,
+                "question_id": 957059667,
+                "store_survey_id": 795
+              },
+              {
+                "id": 16646,
+                "units": 0,
+                "question_id": 957059669,
+                "store_survey_id": 795
+              },
+              {
+                "id": 16649,
+                "units": 0,
+                "question_id": 957059664,
+                "store_survey_id": 795
+              },
+              {
+                "id": 16648,
+                "units": 0,
+                "question_id": 957059665,
+                "store_survey_id": 795
+              },
+              {
+                "id": 16647,
+                "units": 0,
+                "question_id": 957059666,
+                "store_survey_id": 795
+              }
+            ]
+          },
+          {
+            "id": 806,
+            "event_date": "2014-04-17",
+            "contacts": 38,
+            "store_id": 352281248,
+            "promo_cycle_id": 43,
+            "comment": "ΑΝΤΑΓΩΝΙΣΜΟΣ: HP",
+            "informed_contacts": 29,
+            "question_surveys": [
+              {
+                "id": 16871,
+                "units": 0,
+                "question_id": 957059672,
+                "store_survey_id": 806
+              },
+              {
+                "id": 16872,
+                "units": 0,
+                "question_id": 957059671,
+                "store_survey_id": 806
+              },
+              {
+                "id": 16873,
+                "units": 0,
+                "question_id": 957059670,
+                "store_survey_id": 806
+              },
+              {
+                "id": 16874,
+                "units": 20,
+                "question_id": 957059663,
+                "store_survey_id": 806
+              },
+              {
+                "id": 16875,
+                "units": 0,
+                "question_id": 957059668,
+                "store_survey_id": 806
+              },
+              {
+                "id": 16876,
+                "units": 9,
+                "question_id": 957059667,
+                "store_survey_id": 806
+              },
+              {
+                "id": 16877,
+                "units": 0,
+                "question_id": 957059669,
+                "store_survey_id": 806
+              },
+              {
+                "id": 16880,
+                "units": 0,
+                "question_id": 957059664,
+                "store_survey_id": 806
+              },
+              {
+                "id": 16879,
+                "units": 0,
+                "question_id": 957059665,
+                "store_survey_id": 806
+              },
+              {
+                "id": 16878,
+                "units": 0,
+                "question_id": 957059666,
+                "store_survey_id": 806
+              }
+            ]
+          },
+          {
+            "id": 836,
+            "event_date": "2014-04-18",
+            "contacts": 44,
+            "store_id": 352281248,
+            "promo_cycle_id": 43,
+            "comment": "ΑΝΤΑΓΩΝΙΣΜΟΣ: HP",
+            "informed_contacts": 25,
+            "question_surveys": [
+              {
+                "id": 17501,
+                "units": 0,
+                "question_id": 957059672,
+                "store_survey_id": 836
+              },
+              {
+                "id": 17502,
+                "units": 0,
+                "question_id": 957059671,
+                "store_survey_id": 836
+              },
+              {
+                "id": 17503,
+                "units": 0,
+                "question_id": 957059670,
+                "store_survey_id": 836
+              },
+              {
+                "id": 17504,
+                "units": 22,
+                "question_id": 957059663,
+                "store_survey_id": 836
+              },
+              {
+                "id": 17505,
+                "units": 0,
+                "question_id": 957059668,
+                "store_survey_id": 836
+              },
+              {
+                "id": 17506,
+                "units": 3,
+                "question_id": 957059667,
+                "store_survey_id": 836
+              },
+              {
+                "id": 17507,
+                "units": 0,
+                "question_id": 957059669,
+                "store_survey_id": 836
+              },
+              {
+                "id": 17510,
+                "units": 0,
+                "question_id": 957059664,
+                "store_survey_id": 836
+              },
+              {
+                "id": 17509,
+                "units": 0,
+                "question_id": 957059665,
+                "store_survey_id": 836
+              },
+              {
+                "id": 17508,
+                "units": 0,
+                "question_id": 957059666,
+                "store_survey_id": 836
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 37896155,
+        "location_id": 685965820,
+        "chain_store_id": 934821023,
+        "store_surveys": [
+          {
+            "id": 767,
+            "event_date": "2014-04-15",
+            "contacts": 42,
+            "store_id": 37896155,
+            "promo_cycle_id": 43,
+            "comment": "",
+            "informed_contacts": 26,
+            "question_surveys": [
+              {
+                "id": 16055,
+                "units": 22,
+                "question_id": 957059672,
+                "store_survey_id": 767
+              },
+              {
+                "id": 16049,
+                "units": 1,
+                "question_id": 957059671,
+                "store_survey_id": 767
+              },
+              {
+                "id": 16057,
+                "units": 0,
+                "question_id": 957059670,
+                "store_survey_id": 767
+              },
+              {
+                "id": 16054,
+                "units": 0,
+                "question_id": 957059663,
+                "store_survey_id": 767
+              },
+              {
+                "id": 16058,
+                "units": 0,
+                "question_id": 957059668,
+                "store_survey_id": 767
+              },
+              {
+                "id": 16053,
+                "units": 1,
+                "question_id": 957059667,
+                "store_survey_id": 767
+              },
+              {
+                "id": 16059,
+                "units": 0,
+                "question_id": 957059669,
+                "store_survey_id": 767
+              },
+              {
+                "id": 16056,
+                "units": 0,
+                "question_id": 957059664,
+                "store_survey_id": 767
+              },
+              {
+                "id": 16061,
+                "units": 0,
+                "question_id": 957059665,
+                "store_survey_id": 767
+              },
+              {
+                "id": 16060,
+                "units": 2,
+                "question_id": 957059666,
+                "store_survey_id": 767
+              }
+            ]
+          },
+          {
+            "id": 792,
+            "event_date": "2014-04-16",
+            "contacts": 55,
+            "store_id": 37896155,
+            "promo_cycle_id": 43,
+            "comment": "",
+            "informed_contacts": 32,
+            "question_surveys": [
+              {
+                "id": 16577,
+                "units": 1,
+                "question_id": 957059672,
+                "store_survey_id": 792
+              },
+              {
+                "id": 16578,
+                "units": 2,
+                "question_id": 957059671,
+                "store_survey_id": 792
+              },
+              {
+                "id": 16579,
+                "units": 0,
+                "question_id": 957059670,
+                "store_survey_id": 792
+              },
+              {
+                "id": 16580,
+                "units": 28,
+                "question_id": 957059663,
+                "store_survey_id": 792
+              },
+              {
+                "id": 16581,
+                "units": 0,
+                "question_id": 957059668,
+                "store_survey_id": 792
+              },
+              {
+                "id": 16582,
+                "units": 0,
+                "question_id": 957059667,
+                "store_survey_id": 792
+              },
+              {
+                "id": 16583,
+                "units": 0,
+                "question_id": 957059669,
+                "store_survey_id": 792
+              },
+              {
+                "id": 16586,
+                "units": 1,
+                "question_id": 957059664,
+                "store_survey_id": 792
+              },
+              {
+                "id": 16585,
+                "units": 1,
+                "question_id": 957059665,
+                "store_survey_id": 792
+              },
+              {
+                "id": 16584,
+                "units": 0,
+                "question_id": 957059666,
+                "store_survey_id": 792
+              }
+            ]
+          },
+          {
+            "id": 803,
+            "event_date": "2014-04-17",
+            "contacts": 53,
+            "store_id": 37896155,
+            "promo_cycle_id": 43,
+            "comment": "",
+            "informed_contacts": 30,
+            "question_surveys": [
+              {
+                "id": 16808,
+                "units": 2,
+                "question_id": 957059672,
+                "store_survey_id": 803
+              },
+              {
+                "id": 16809,
+                "units": 2,
+                "question_id": 957059671,
+                "store_survey_id": 803
+              },
+              {
+                "id": 16810,
+                "units": 1,
+                "question_id": 957059670,
+                "store_survey_id": 803
+              },
+              {
+                "id": 16811,
+                "units": 25,
+                "question_id": 957059663,
+                "store_survey_id": 803
+              },
+              {
+                "id": 16812,
+                "units": 0,
+                "question_id": 957059668,
+                "store_survey_id": 803
+              },
+              {
+                "id": 16813,
+                "units": 0,
+                "question_id": 957059667,
+                "store_survey_id": 803
+              },
+              {
+                "id": 16814,
+                "units": 0,
+                "question_id": 957059669,
+                "store_survey_id": 803
+              },
+              {
+                "id": 16817,
+                "units": 0,
+                "question_id": 957059664,
+                "store_survey_id": 803
+              },
+              {
+                "id": 16816,
+                "units": 0,
+                "question_id": 957059665,
+                "store_survey_id": 803
+              },
+              {
+                "id": 16815,
+                "units": 0,
+                "question_id": 957059666,
+                "store_survey_id": 803
+              }
+            ]
+          },
+          {
+            "id": 833,
+            "event_date": "2014-04-18",
+            "contacts": 60,
+            "store_id": 37896155,
+            "promo_cycle_id": 43,
+            "comment": "",
+            "informed_contacts": 34,
+            "question_surveys": [
+              {
+                "id": 17438,
+                "units": 1,
+                "question_id": 957059672,
+                "store_survey_id": 833
+              },
+              {
+                "id": 17439,
+                "units": 1,
+                "question_id": 957059671,
+                "store_survey_id": 833
+              },
+              {
+                "id": 17440,
+                "units": 1,
+                "question_id": 957059670,
+                "store_survey_id": 833
+              },
+              {
+                "id": 17441,
+                "units": 27,
+                "question_id": 957059663,
+                "store_survey_id": 833
+              },
+              {
+                "id": 17442,
+                "units": 0,
+                "question_id": 957059668,
+                "store_survey_id": 833
+              },
+              {
+                "id": 17443,
+                "units": 0,
+                "question_id": 957059667,
+                "store_survey_id": 833
+              },
+              {
+                "id": 17444,
+                "units": 0,
+                "question_id": 957059669,
+                "store_survey_id": 833
+              },
+              {
+                "id": 17447,
+                "units": 0,
+                "question_id": 957059664,
+                "store_survey_id": 833
+              },
+              {
+                "id": 17446,
+                "units": 5,
+                "question_id": 957059665,
+                "store_survey_id": 833
+              },
+              {
+                "id": 17445,
+                "units": 0,
+                "question_id": 957059666,
+                "store_survey_id": 833
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 138262025,
+        "location_id": 580683816,
+        "chain_store_id": 934821023,
+        "store_surveys": [
+          {
+            "id": 766,
+            "event_date": "2014-04-15",
+            "contacts": 37,
+            "store_id": 138262025,
+            "promo_cycle_id": 43,
+            "comment": "ΑΝΤΑΓΩΝΙΣΜΟΣ: HP, APPLE",
+            "informed_contacts": 26,
+            "question_surveys": [
+              {
+                "id": 16034,
+                "units": 25,
+                "question_id": 957059672,
+                "store_survey_id": 766
+              },
+              {
+                "id": 16032,
+                "units": 1,
+                "question_id": 957059671,
+                "store_survey_id": 766
+              },
+              {
+                "id": 16036,
+                "units": 0,
+                "question_id": 957059670,
+                "store_survey_id": 766
+              },
+              {
+                "id": 16027,
+                "units": 0,
+                "question_id": 957059663,
+                "store_survey_id": 766
+              },
+              {
+                "id": 16037,
+                "units": 0,
+                "question_id": 957059668,
+                "store_survey_id": 766
+              },
+              {
+                "id": 16026,
+                "units": 0,
+                "question_id": 957059667,
+                "store_survey_id": 766
+              },
+              {
+                "id": 16038,
+                "units": 0,
+                "question_id": 957059669,
+                "store_survey_id": 766
+              },
+              {
+                "id": 16035,
+                "units": 0,
+                "question_id": 957059664,
+                "store_survey_id": 766
+              },
+              {
+                "id": 16040,
+                "units": 0,
+                "question_id": 957059665,
+                "store_survey_id": 766
+              },
+              {
+                "id": 16039,
+                "units": 0,
+                "question_id": 957059666,
+                "store_survey_id": 766
+              }
+            ]
+          },
+          {
+            "id": 791,
+            "event_date": "2014-04-16",
+            "contacts": 40,
+            "store_id": 138262025,
+            "promo_cycle_id": 43,
+            "comment": "ΑΝΤΑΓΩΝΙΣΜΟΣ: HP, APPLE",
+            "informed_contacts": 28,
+            "question_surveys": [
+              {
+                "id": 16556,
+                "units": 0,
+                "question_id": 957059672,
+                "store_survey_id": 791
+              },
+              {
+                "id": 16557,
+                "units": 1,
+                "question_id": 957059671,
+                "store_survey_id": 791
+              },
+              {
+                "id": 16558,
+                "units": 0,
+                "question_id": 957059670,
+                "store_survey_id": 791
+              },
+              {
+                "id": 16559,
+                "units": 27,
+                "question_id": 957059663,
+                "store_survey_id": 791
+              },
+              {
+                "id": 16560,
+                "units": 0,
+                "question_id": 957059668,
+                "store_survey_id": 791
+              },
+              {
+                "id": 16561,
+                "units": 0,
+                "question_id": 957059667,
+                "store_survey_id": 791
+              },
+              {
+                "id": 16562,
+                "units": 0,
+                "question_id": 957059669,
+                "store_survey_id": 791
+              },
+              {
+                "id": 16565,
+                "units": 0,
+                "question_id": 957059664,
+                "store_survey_id": 791
+              },
+              {
+                "id": 16564,
+                "units": 0,
+                "question_id": 957059665,
+                "store_survey_id": 791
+              },
+              {
+                "id": 16563,
+                "units": 0,
+                "question_id": 957059666,
+                "store_survey_id": 791
+              }
+            ]
+          },
+          {
+            "id": 802,
+            "event_date": "2014-04-17",
+            "contacts": 38,
+            "store_id": 138262025,
+            "promo_cycle_id": 43,
+            "comment": "ΑΝΤΑΓΩΝΙΣΜΟΣ: HP, APPLE",
+            "informed_contacts": 27,
+            "question_surveys": [
+              {
+                "id": 16787,
+                "units": 0,
+                "question_id": 957059672,
+                "store_survey_id": 802
+              },
+              {
+                "id": 16788,
+                "units": 2,
+                "question_id": 957059671,
+                "store_survey_id": 802
+              },
+              {
+                "id": 16789,
+                "units": 0,
+                "question_id": 957059670,
+                "store_survey_id": 802
+              },
+              {
+                "id": 16790,
+                "units": 25,
+                "question_id": 957059663,
+                "store_survey_id": 802
+              },
+              {
+                "id": 16791,
+                "units": 0,
+                "question_id": 957059668,
+                "store_survey_id": 802
+              },
+              {
+                "id": 16792,
+                "units": 0,
+                "question_id": 957059667,
+                "store_survey_id": 802
+              },
+              {
+                "id": 16793,
+                "units": 0,
+                "question_id": 957059669,
+                "store_survey_id": 802
+              },
+              {
+                "id": 16796,
+                "units": 0,
+                "question_id": 957059664,
+                "store_survey_id": 802
+              },
+              {
+                "id": 16795,
+                "units": 0,
+                "question_id": 957059665,
+                "store_survey_id": 802
+              },
+              {
+                "id": 16794,
+                "units": 0,
+                "question_id": 957059666,
+                "store_survey_id": 802
+              }
+            ]
+          },
+          {
+            "id": 832,
+            "event_date": "2014-04-18",
+            "contacts": 33,
+            "store_id": 138262025,
+            "promo_cycle_id": 43,
+            "comment": "ΑΝΤΑΓΩΝΙΣΜΟΣ: HP, APPLE",
+            "informed_contacts": 24,
+            "question_surveys": [
+              {
+                "id": 17417,
+                "units": 1,
+                "question_id": 957059672,
+                "store_survey_id": 832
+              },
+              {
+                "id": 17418,
+                "units": 0,
+                "question_id": 957059671,
+                "store_survey_id": 832
+              },
+              {
+                "id": 17419,
+                "units": 0,
+                "question_id": 957059670,
+                "store_survey_id": 832
+              },
+              {
+                "id": 17420,
+                "units": 23,
+                "question_id": 957059663,
+                "store_survey_id": 832
+              },
+              {
+                "id": 17421,
+                "units": 0,
+                "question_id": 957059668,
+                "store_survey_id": 832
+              },
+              {
+                "id": 17422,
+                "units": 0,
+                "question_id": 957059667,
+                "store_survey_id": 832
+              },
+              {
+                "id": 17423,
+                "units": 0,
+                "question_id": 957059669,
+                "store_survey_id": 832
+              },
+              {
+                "id": 17426,
+                "units": 0,
+                "question_id": 957059664,
+                "store_survey_id": 832
+              },
+              {
+                "id": 17425,
+                "units": 0,
+                "question_id": 957059665,
+                "store_survey_id": 832
+              },
+              {
+                "id": 17424,
+                "units": 0,
+                "question_id": 957059666,
+                "store_survey_id": 832
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 406790076,
+        "location_id": 591109710,
+        "chain_store_id": 934821023,
+        "store_surveys": [
+          {
+            "id": 768,
+            "event_date": "2014-04-15",
+            "contacts": 55,
+            "store_id": 406790076,
+            "promo_cycle_id": 43,
+            "comment": "ΑΝΤΑΓΩΝΙΣΜΟΣ: HP",
+            "informed_contacts": 35,
+            "question_surveys": [
+              {
+                "id": 16076,
+                "units": 35,
+                "question_id": 957059672,
+                "store_survey_id": 768
+              },
+              {
+                "id": 16066,
+                "units": 0,
+                "question_id": 957059671,
+                "store_survey_id": 768
+              },
+              {
+                "id": 16078,
+                "units": 0,
+                "question_id": 957059670,
+                "store_survey_id": 768
+              },
+              {
+                "id": 16075,
+                "units": 0,
+                "question_id": 957059663,
+                "store_survey_id": 768
+              },
+              {
+                "id": 16079,
+                "units": 0,
+                "question_id": 957059668,
+                "store_survey_id": 768
+              },
+              {
+                "id": 16074,
+                "units": 0,
+                "question_id": 957059667,
+                "store_survey_id": 768
+              },
+              {
+                "id": 16080,
+                "units": 0,
+                "question_id": 957059669,
+                "store_survey_id": 768
+              },
+              {
+                "id": 16077,
+                "units": 0,
+                "question_id": 957059664,
+                "store_survey_id": 768
+              },
+              {
+                "id": 16082,
+                "units": 0,
+                "question_id": 957059665,
+                "store_survey_id": 768
+              },
+              {
+                "id": 16081,
+                "units": 0,
+                "question_id": 957059666,
+                "store_survey_id": 768
+              }
+            ]
+          },
+          {
+            "id": 793,
+            "event_date": "2014-04-16",
+            "contacts": 50,
+            "store_id": 406790076,
+            "promo_cycle_id": 43,
+            "comment": "ΑΝΤΑΓΩΝΙΣΜΟΣ: HP",
+            "informed_contacts": 30,
+            "question_surveys": [
+              {
+                "id": 16598,
+                "units": 0,
+                "question_id": 957059672,
+                "store_survey_id": 793
+              },
+              {
+                "id": 16599,
+                "units": 0,
+                "question_id": 957059671,
+                "store_survey_id": 793
+              },
+              {
+                "id": 16600,
+                "units": 0,
+                "question_id": 957059670,
+                "store_survey_id": 793
+              },
+              {
+                "id": 16601,
+                "units": 30,
+                "question_id": 957059663,
+                "store_survey_id": 793
+              },
+              {
+                "id": 16602,
+                "units": 0,
+                "question_id": 957059668,
+                "store_survey_id": 793
+              },
+              {
+                "id": 16603,
+                "units": 0,
+                "question_id": 957059667,
+                "store_survey_id": 793
+              },
+              {
+                "id": 16604,
+                "units": 0,
+                "question_id": 957059669,
+                "store_survey_id": 793
+              },
+              {
+                "id": 16607,
+                "units": 0,
+                "question_id": 957059664,
+                "store_survey_id": 793
+              },
+              {
+                "id": 16606,
+                "units": 0,
+                "question_id": 957059665,
+                "store_survey_id": 793
+              },
+              {
+                "id": 16605,
+                "units": 0,
+                "question_id": 957059666,
+                "store_survey_id": 793
+              }
+            ]
+          },
+          {
+            "id": 804,
+            "event_date": "2014-04-17",
+            "contacts": 48,
+            "store_id": 406790076,
+            "promo_cycle_id": 43,
+            "comment": "ΑΝΤΑΓΩΝΙΣΜΟΣ: HP",
+            "informed_contacts": 29,
+            "question_surveys": [
+              {
+                "id": 16829,
+                "units": 0,
+                "question_id": 957059672,
+                "store_survey_id": 804
+              },
+              {
+                "id": 16830,
+                "units": 0,
+                "question_id": 957059671,
+                "store_survey_id": 804
+              },
+              {
+                "id": 16831,
+                "units": 0,
+                "question_id": 957059670,
+                "store_survey_id": 804
+              },
+              {
+                "id": 16832,
+                "units": 29,
+                "question_id": 957059663,
+                "store_survey_id": 804
+              },
+              {
+                "id": 16833,
+                "units": 0,
+                "question_id": 957059668,
+                "store_survey_id": 804
+              },
+              {
+                "id": 16834,
+                "units": 0,
+                "question_id": 957059667,
+                "store_survey_id": 804
+              },
+              {
+                "id": 16835,
+                "units": 0,
+                "question_id": 957059669,
+                "store_survey_id": 804
+              },
+              {
+                "id": 16838,
+                "units": 0,
+                "question_id": 957059664,
+                "store_survey_id": 804
+              },
+              {
+                "id": 16837,
+                "units": 0,
+                "question_id": 957059665,
+                "store_survey_id": 804
+              },
+              {
+                "id": 16836,
+                "units": 0,
+                "question_id": 957059666,
+                "store_survey_id": 804
+              }
+            ]
+          },
+          {
+            "id": 834,
+            "event_date": "2014-04-18",
+            "contacts": 54,
+            "store_id": 406790076,
+            "promo_cycle_id": 43,
+            "comment": "ΑΝΤΑΓΩΝΙΣΜΟΣ: HP",
+            "informed_contacts": 33,
+            "question_surveys": [
+              {
+                "id": 17459,
+                "units": 0,
+                "question_id": 957059672,
+                "store_survey_id": 834
+              },
+              {
+                "id": 17460,
+                "units": 0,
+                "question_id": 957059671,
+                "store_survey_id": 834
+              },
+              {
+                "id": 17461,
+                "units": 0,
+                "question_id": 957059670,
+                "store_survey_id": 834
+              },
+              {
+                "id": 17462,
+                "units": 33,
+                "question_id": 957059663,
+                "store_survey_id": 834
+              },
+              {
+                "id": 17463,
+                "units": 0,
+                "question_id": 957059668,
+                "store_survey_id": 834
+              },
+              {
+                "id": 17464,
+                "units": 0,
+                "question_id": 957059667,
+                "store_survey_id": 834
+              },
+              {
+                "id": 17465,
+                "units": 0,
+                "question_id": 957059669,
+                "store_survey_id": 834
+              },
+              {
+                "id": 17468,
+                "units": 0,
+                "question_id": 957059664,
+                "store_survey_id": 834
+              },
+              {
+                "id": 17467,
+                "units": 0,
+                "question_id": 957059665,
+                "store_survey_id": 834
+              },
+              {
+                "id": 17466,
+                "units": 0,
+                "question_id": 957059666,
+                "store_survey_id": 834
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
